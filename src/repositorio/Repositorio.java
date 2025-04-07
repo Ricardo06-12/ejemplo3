@@ -6,7 +6,7 @@ public class Repositorio {
 
    
     public static void main(String[] args) {
-         System.out.println("buenas tardes");
+         System.out.println("buen dia ");
     }
     
 }
